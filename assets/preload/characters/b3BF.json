@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-50
+				60,
+				-70
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				60,
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -200,17 +200,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/B3BOYFRIEND",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "b3bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		29,
+		255,
+		89
 	],
 	"camera_position": [
 		250,
